@@ -4,8 +4,7 @@ Foundations of Artificial Intelligence Project CS23533
 
 > **Classical Knowledge-Based Reasoning for Medical Diagnosis Demonstration**
 > 
-> *Developed for Foundations of Artificial Intelligence (FOAI) · Unit IV: Knowledge-based reasoning*
-> 
+
 
 ---
 
