@@ -1,6 +1,6 @@
-# Foundations-of-Artificial-Intelligence
+# MEDIXAI: Transparent Rule-Based Expert System
 Foundations of Artificial Intelligence Project CS23533
-**MEDIXAI: Transparent Rule-Based Expert System**
+
 
 > **Classical Knowledge-Based Reasoning for Medical Diagnosis Demonstration**
 > 
